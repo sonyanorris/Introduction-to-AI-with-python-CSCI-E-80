@@ -101,7 +101,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
     - **Backtracking search**
 
 ### Projects
-- [Crossword]()
+
     
 ## Lecture 4: Learning
 
@@ -134,8 +134,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
  clusters' centers.
 
 ### Projects
-- [Shopping]()
-- [Nim]()
+
 
 ## Lecture 5: Neural Networks
 
@@ -157,7 +156,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Backpropagation**: algorithm for training neural networks with hidden layers.
 
 ### Projects
-- [Traffic]()
+
 
 ## Lecture 6: Language
 
@@ -194,5 +193,4 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **skip-gram architecture**: neural network architecture for predicting context words given a target word.
 
 ### Projects
-- [Parser]()
-- [Questions]()
+
