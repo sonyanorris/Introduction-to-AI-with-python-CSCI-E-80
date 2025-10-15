@@ -10,8 +10,6 @@ This course explores the concepts and algorithms at the foundation of modern art
  machine learning as well as knowledge of artificial intelligence principles that enable them to design intelligent
  systems of their own.
  
-Certificate:
-https://courses.edx.org/certificates/2ec5ff3f06b24bb595c21e3821591538
 
 # Notes
 I've taken some notes on key concepts and algorithms throughout the lectures for future reference. 
@@ -37,8 +35,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Minimax**: adversarial search algorithm.
 
 ### Projects
-- [Degrees](https://github.com/nahueespinosa/ai50/tree/master/degrees)
-- [Tic-Tac-Toe](https://github.com/nahueespinosa/ai50/tree/master/tictactoe)
+- [Degrees](https://github.com/sonyanorris/Introduction-to-AI-with-python-CSCI-E-80/tree/main/degrees)
+- [Tic-Tac-Toe](https://github.com/sonyanorris/Introduction-to-AI-with-python-CSCI-E-80/tree/main/tictactoe)
 
 ## Lecture 1: Knowledge
 
@@ -56,8 +54,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Conversion to CNF** and **Inference by resolution**
 
 ### Projects
-- [Knights](https://github.com/nahueespinosa/ai50/tree/master/knights)
-- [Minesweeper](https://github.com/nahueespinosa/ai50/tree/master/minesweeper)
+- [Knights](https://github.com/sonyanorris/Introduction-to-AI-with-python-CSCI-E-80/tree/main/knights)
+- [Minesweeper](https://github.com/sonyanorris/Introduction-to-AI-with-python-CSCI-E-80/tree/main/minesweeper)
 
 ## Lecture 2: Uncertainty
 
@@ -79,8 +77,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Likelihood weighting**
 
 ### Projects
-- [Heredity](https://github.com/nahueespinosa/ai50/tree/master/heredity)
-- [PageRank](https://github.com/nahueespinosa/ai50/tree/master/pagerank)
+- [PageRank](https://github.com/sonyanorris/Introduction-to-AI-with-python-CSCI-E-80/tree/main/pagerank)
 
 ## Lecture 3: Optimization
 
@@ -104,7 +101,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
     - **Backtracking search**
 
 ### Projects
-- [Crossword](https://github.com/nahueespinosa/ai50/tree/master/crossword)
+- [Crossword]()
     
 ## Lecture 4: Learning
 
@@ -137,8 +134,8 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
  clusters' centers.
 
 ### Projects
-- [Shopping](https://github.com/nahueespinosa/ai50/tree/master/shopping)
-- [Nim](https://github.com/nahueespinosa/ai50/tree/master/nim)
+- [Shopping]()
+- [Nim]()
 
 ## Lecture 5: Neural Networks
 
@@ -160,7 +157,7 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **Backpropagation**: algorithm for training neural networks with hidden layers.
 
 ### Projects
-- [Traffic](https://github.com/nahueespinosa/ai50/tree/master/traffic)
+- [Traffic]()
 
 ## Lecture 6: Language
 
@@ -197,5 +194,5 @@ I've taken some notes on key concepts and algorithms throughout the lectures for
 - **skip-gram architecture**: neural network architecture for predicting context words given a target word.
 
 ### Projects
-- [Parser](https://github.com/nahueespinosa/ai50/tree/master/parser)
-- [Questions](https://github.com/nahueespinosa/ai50/tree/master/questions)
+- [Parser]()
+- [Questions]()
